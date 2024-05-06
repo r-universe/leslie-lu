@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/leslie-lu/leslie-lu.r-universe.dev
 	branch = HEAD
+[submodule "createAddins"]
+	path = createAddins
+	url = https://github.com/Leslie-Lu/createAddins
