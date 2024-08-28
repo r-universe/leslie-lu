@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["createAddins", "leslie-lu.r-universe.dev"]
+  "repositories": ["createAddins", "leslie-lu.r-universe.dev", "lulab.utils"]
 }
