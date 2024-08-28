@@ -5,3 +5,6 @@
 [submodule "createAddins"]
 	path = createAddins
 	url = https://github.com/Leslie-Lu/createAddins
+[submodule "lulab.utils"]
+	path = lulab.utils
+	url = https://github.com/Leslie-Lu/lulab.utils
