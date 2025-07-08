@@ -8,3 +8,6 @@
 [submodule "lulab.utils"]
 	path = lulab.utils
 	url = https://github.com/Leslie-Lu/lulab.utils
+[submodule "omixVizR"]
+	path = omixVizR
+	url = https://github.com/Leslie-Lu/omixVizR
